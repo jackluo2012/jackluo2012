@@ -7,7 +7,7 @@
 <br />
 
 - 🔭 I am currently working as a Full Stack Developer.
-- 🌱 I’m currently learning Golang, Python PHP Vue ReactJS Web3.0 Docker K8s.
+- 🌱 I’m currently learning Rust,Golang, Python, PHP,Nodejs, Vue, ReactJS, Web3.0,solidity,solana, Docker, K8s,GPT,MCP.
 - 👯 I’m looking to collaborate on Micro-service, PaaS, SaaS and so on…
 - 💬 Ask me about Anything you want~
 - 📫 Reach me: net.webjoy@gmail.com
