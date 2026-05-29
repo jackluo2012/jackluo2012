@@ -78,14 +78,11 @@ I'm a Full Stack Developer passionate about **AI Agents**, **MCP (Model Context 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackluo2012&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackluo2012&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackluo2012&theme=dark&hide_border=true" alt="Streak Stats" />
-</p>
+<div>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jackluo2012&show_icons=true&theme=transparent" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackluo2012&layout=compact&langs_count=6&theme=transparent&hide=javascript,html,css" />
+</div>
+<br />
 
 ---
 
