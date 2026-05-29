@@ -1,86 +1,60 @@
-<p align="center">
-  <img src="https://github.com/jackluo2012/jackluo2012/raw/master/wave.gif" width="60">
-</p>
+### Hi there, I'm [Jackluo](https://jackluo.cnblogs.com/) <img src="https://github.com/jackluo2012/jackluo2012/blob/master/wave.gif" width="25px">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&height=80&lines=Hi+there%2C+I'm+Jackluo;AI+Agent+Developer;Full+Stack+Engineer;Quant+Trading+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<img align='right' src="https://github.com/jackluo2012/jackluo2012/blob/master/code_night.gif" width="350" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍-Chengdu-China-red" alt="Location">
-  <img src="https://img.shields.io/badge/📧-net.webjoy@gmail.com-D14836" alt="Email">
-  <img src="https://img.shields.io/badge/🌐-jackluo.cnblogs.com-orange" alt="Blog">
-</p>
+<br />
+<br />
+
+I'm a Full Stack Developer passionate about **AI Agents**, **MCP (Model Context Protocol)**, and building intelligent systems.
+
+<br />
+
+- 🤖 **AI Agent Development** - Building autonomous agents and MCP servers
+- 🌱 Learning: Rust, Golang, Python, Node.js, Vue, React, Web3, Solana, Docker, K8s, LLM
+- 💡 Open to collaborate on: AI Agents, Quantitative Trading, Web3, Microservices
+- 📫 Reach me: net.webjoy@gmail.com
+- 😄 Pronouns: jackluo2012
+- ⚡ Fun fact: Watching movies and traveling
+
+<br />
 
 ---
 
-## 🎯 What I Do
+## 🤖 AI Agent Projects
 
-<div align="center">
+| Project | Description | Stars | Language |
+|---------|-------------|-------|----------|
+| [jack-claw](https://github.com/jackluo2012/jack-claw) | 飞书 AI 助手 - 消息接收、多轮对话、Skills 系统、沙盒执行、pgvector | 1 | Python |
+| [ai_fastapi_mcpserver](https://github.com/jackluo2012/ai_fastapi_mcpserver) | MCP Server for AI agent integrations | - | Python |
+| [ai-fastapi](https://github.com/jackluo2012/ai-fastapi) | FastAPI web service framework for AI apps | - | Python |
 
-### 🤖 AI Agent Development
-Building autonomous agents, MCP servers, and intelligent systems
+---
 
-### 💻 Full Stack Development
-Rust, Go, Python, Vue, React - from backend to frontend
+## 📊 Featured Projects
 
-### 📊 Quantitative Trading
-Algorithmic trading systems and strategies
+| Project | Description | Stars | Language |
+|---------|-------------|-------|----------|
+| [datacenter](https://github.com/jackluo2012/datacenter) | Data center platform (Go-Zero framework) | 723 | Go |
+| [rustdx](https://github.com/jackluo2012/rustdx) | A-share data acquisition tool (inspired by pytdx) | 27 | Rust |
+| [duanxianxia](https://github.com/jackluo2012/duanxianxia) | Rust game project | 8 | Rust |
 
-### 🔗 Web3 & Blockchain
-Solana MEV bots, arbitrage, DeFi protocols
+---
 
+## 💼 Quant Trading & Web3
+
+- [PulseTrader](https://github.com/jackluo2012/PulseTrader) - Quant trading system
+- [QUANTAXIS](https://github.com/jackluo2012/QUANTAXIS) - Local quantitative solution
+- Multiple Solana MEV & Arbitrage bots
+
+---
+
+<div>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=jackluo2012&show_icons=true&theme=transparent" />
+  <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackluo2012&layout=compact&langs_count=6&theme=transparent&hide=javascript,html,css" />
 </div>
-
----
-
-## 🔥 AI Agent Projects
+<br />
 
 <p align="center">
-  <a href="https://github.com/jackluo2012/jack-claw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackluo2012&repo=jack-claw&theme=transparent&hide_border=true" alt="jack-claw">
-  </a>
-  <a href="https://github.com/jackluo2012/ai_fastapi_mcpserver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackluo2012&repo=ai_fastapi_mcpserver&theme=transparent&hide_border=true" alt="mcpserver">
-  </a>
-</p>
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-  <a href="https://github.com/jackluo2012/datacenter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackluo2012&repo=datacenter&theme=transparent&hide_border=true" alt="datacenter">
-  </a>
-  <a href="https://github.com/jackluo2012/rustdx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jackluo2012&repo=rustdx&theme=transparent&hide_border=true" alt="rustdx">
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,python,nodejs,ts,vue,react,docker,kubernetes,solidity" alt="Skills" />
-  <img src="https://skillicons.dev/icons?i=git,linux,redis,postgres,mongodb,nginx,aws,gcp,azure" alt="Skills" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackluo2012&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/jackluo2012/jackluo2012/raw/master/code_night.gif" width="350">
-</p>
-
-<p align="center">
-  <sub>⚡ Fun fact: I enjoy watching movies and traveling 🌍</sub>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jackluo2012/count.svg" />
 </p>
