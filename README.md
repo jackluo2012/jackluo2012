@@ -24,7 +24,7 @@ I'm a Full Stack Developer passionate about **AI Agents**, **MCP (Model Context 
 
 | Project | Description | Stars | Language |
 |---------|-------------|-------|----------|
-| [jack-claw](https://github.com/jackluo2012/jack-claw) | 飞书 AI 助手 - 消息接收、多轮对话、Skills 系统、沙盒执行、pgvector | 1 | Python |
+| [jack-claw](https://github.com/jackluo2012/jack-claw) | 飞书 AI Agent 工作助手 - WebSocket 消息、多轮对话、动态 Skills、沙盒执行、向量记忆 | 1 | Python |
 | [ai_fastapi_mcpserver](https://github.com/jackluo2012/ai_fastapi_mcpserver) | MCP Server for AI agent integrations | - | Python |
 | [ai-fastapi](https://github.com/jackluo2012/ai-fastapi) | FastAPI web service framework for AI apps | - | Python |
 
@@ -55,6 +55,5 @@ I'm a Full Stack Developer passionate about **AI Agents**, **MCP (Model Context 
 <br />
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jackluo2012/count.svg" />
+  <sub>⚡ Fun fact: Watching movies and traveling 🌍</sub>
 </p>
